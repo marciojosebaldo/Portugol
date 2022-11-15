@@ -1,3 +1,3 @@
 # Portugol
 
-Lógicas desenvolvidas com autoria própria
+Lógicas desenvolvidas de autoria própria.
